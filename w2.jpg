@@ -1,0 +1,2059 @@
+<!DOCTYPE html>
+<html>
+<head>
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153140197-1"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-153140197-1');
+            </script>
+    
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    
+
+
+
+                <meta name="Keywords" content="Top Medical and Dental Hospital in Karachi, Hospital near to me, Research, Treatment, Careers, Organization, Specialists, Departments, Medical College, Hospital, Healthcare, advanced medical treatment, Medical Services, Best Hospital in Karachi, Top Doctors in Karachi, Healthcare practitioners, Patient Care." />
+                    <meta property="og:description" content="LNH was conceived 60 years ago as a not-for-profit organization with a vision to provide quality healthcare at an affordable cost to all socioeconomic classes." />
+                    <meta name="description" content="LNH was conceived 60 years ago as a not-for-profit organization with a vision to provide quality healthcare at an affordable cost to all socioeconomic classes." />
+            
+
+
+    <meta name="Author" content="Liaquat National Hospital and Medical College" />
+    <meta name="Robots" content="index,follow" />
+
+    <meta property="og:url" content="/" />
+    <meta property="og:title" content="Liaquat National Hospital and Medical College" />
+    <meta property="og:image" itemprop="image" content="https://lnh.edu.pk/BlueTheme/images/logo.png" />
+
+    <meta property="og:image:type" content="https://lnh.edu.pk/BlueTheme/images/logo.png" />
+    <meta property="og:image:width" content="256" />
+    <meta property="og:image:height" content="256" />
+
+
+    <meta property="og:type" content="website" />
+
+
+
+
+    <!-- Favicon and Touch Icons -->
+    <link href="/BlueTheme/images/favicon.png" rel="shortcut icon" type="image/png">
+    <link href="/BlueTheme/images/apple-touch-icon.png" rel="icon">
+    <link href="/BlueTheme/images/apple-touch-icon-72x72.png" rel="icon" sizes="72x72">
+    <link href="/BlueTheme/images/apple-touch-icon-114x114.png" rel="icon" sizes="114x114">
+    <link href="/BlueTheme/images/apple-touch-icon-144x144.png" rel="icon" sizes="144x144">
+    <link href="/BlueTheme/css/bundledCss.min.css" rel="stylesheet" type="text/css">
+    <!-- external javascripts -->
+    <!-- JS | jquery/Bootstrap plugin -->
+    <script src="/BlueTheme/js/jquery-2.2.4.min.js"></script>
+    <script src="/BlueTheme/js/jquery-ui.min.js"></script>
+    <script src="/BlueTheme/js/bootstrap.min.js"></script>
+
+    <script src="/BlueTheme/js/moment.min.js"></script>
+
+    <!-- JS | jquery plugin collection for this theme -->
+    <script src="/BlueTheme/js/jquery-plugin-collection.js"></script>
+
+    <!-- Revolution Slider 5.x SCRIPTS -->
+    <script src="/BlueTheme/js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/BlueTheme/js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="/BlueTheme/js/lnh-customjs.js"></script>
+    <script src="/BlueTheme/js/HelperScript.js"></script>
+
+    <!--Google Recaptcha-->
+    <script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit" async defer></script>
+
+    <script type="text/javascript">
+
+        var ContactFormRecaptcha;
+        var FooterFormRecaptcha;
+        var CareerFormRecaptcha;
+        var CaptchaCallback = function () {
+            //debugger
+            if ($('#ContactFormRecaptcha').length) {
+                ContactFormRecaptcha = grecaptcha.render('ContactFormRecaptcha', {
+                    'sitekey': '6LenorkUAAAAAGsfE56GIaGoV_Q20I8QTLT1R--C'
+                });
+            }
+            if ($('#FooterFormRecaptcha').length) {
+                FooterFormRecaptcha = grecaptcha.render('FooterFormRecaptcha', {
+                    'sitekey': '6LenorkUAAAAAGsfE56GIaGoV_Q20I8QTLT1R--C'
+                });
+            }
+            if ($('#CareerFormRecaptcha').length) {
+                CareerFormRecaptcha = grecaptcha.render('CareerFormRecaptcha', {
+                    'sitekey': '6LenorkUAAAAAGsfE56GIaGoV_Q20I8QTLT1R--C'
+                });
+            }
+        };
+
+    </script>
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+
+
+</head>
+
+<body class="has-side-panel side-panel-right fullwidth-page side-push-panel">
+
+    <script>
+        $(window).bind("load", function () {
+            $("div#extraNav").removeClass("hid");
+        });
+        $(function () {
+            $('#navigation-ii a').stop().animate({ 'marginLeft': '-136px' }, 800);
+
+            $('#navigation-ii > li').hover(
+                function () {
+                    $('a', $(this)).stop().animate({ 'marginLeft': '-2px' }, 1000);
+                },
+                function () {
+                    $('a', $(this)).stop().animate({ 'marginLeft': '-136px' }, 800);
+                }
+            );
+        });
+    </script>
+    <div id="extraNav" class="container hid">
+        <ul id="navigation-ii">
+            <li class="home-ii"><a href="/schedule/opdschedule" title="OPD Schedule"><span class="ii-title">OPD Schedule  <i class="fa fa-calendar icon-slide"></i></span></a></li>
+            <li class="home-ii"><a href="/lnh/mediacoverage" title="Videos"><span class="ii-title sub-ii">Videos  <i class="fa fa-video-camera  mycenter-ii"></i></span></a></li>
+            <li class="home-ii">
+                <a href="/gallery" title="Gallery">
+                    <span class="ii-title subgallery-ii">
+                        Gallery   <i class="fa fa-picture-o mychan-ii"></i>
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="body-overlay"></div>
+
+    <div id="side-panel" class="bg-silver-light">
+    <div class="side-panel-wrap">
+        <div id="side-panel-trigger-close" class="side-panel-trigger"><a href="#"><i class="pe-7s-close font-36"></i></a></div>
+        <a href="/"><img alt="logo" src="/BlueTheme/images/logo-64x64.png"></a>
+        <div class="side-panel-nav mt-20">
+            <div class="widget no-border">
+                <nav>
+                    <ul class="nav nav-list">
+                        <li>
+                            <a href="/Telemedicine">Telemedicine Clinics</a>
+                        </li>
+                        <li>
+                            <a href="/schedule/opdSchedule">OPD Schedule</a>
+                        </li>
+
+
+                        <li>
+                            <a href="/newsandevents">News and Events</a>
+                        </li>
+                        <li>
+                            <a href="/gallery">Gallery</a>
+                        </li>
+                        <li>
+                            <a href="/services/facilities">Facilities</a>
+                        </li>
+                        <li>
+                            <div class="dropdown-sidebar">
+                                <a href="https://journals.lnh.edu.pk/" class="dropbtn-sidebar">LNH Journals <span class="fa fa-caret-down"></span> </a>
+
+                                <div class="dropdown-content-sidebar">
+                                    <a href="https://journals.lnh.edu.pk/lnjpc/home/index" class="list">LNJPC</a>
+                                    <a href="https://journals.lnh.edu.pk/lnjcc/home/index" class="list">LNJCC</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/lnh/mediacoverage">Media Coverage</a>
+                        </li>
+                        <li>
+                            <a href="/Newsletter">Newsletter</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/pages/faqs">FAQs</a>
+                        </li>
+                        <li>
+                            <a href="/lnh/why-join-us">Why Join Us?</a>
+                        </li>
+                        <li>
+                            <a href="/Home/AirlinePortal">Airline Portal</a>
+                        </li>
+                        <li>
+                            <a href="/careers">Careers</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="side-panel-widget mt-30">
+            <div class="widget no-border">
+                <ul>
+                    <li class="font-14 mb-5">
+                        <i class="fa fa-phone text-theme-colored pr-10"></i>
+                        <a href="javascript:void(0)" class="text-gray">(+92 21) 111-456-456</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    <div id="wrapper" class="clearfix">
+        <!-- preloader -->
+
+        
+<!-- Header -->
+<style>
+    .mr-10{
+        margin-right:10% !important;
+    }
+    
+</style>
+<header id="header" class="header">
+    
+
+
+
+    <div class="header-nav">
+        <div class="header-nav-wrapper navbar-scrolltofixed bg-lightest">
+
+            <div class="header-top bg-theme-colored sm-text-center lnh-clear-bottom">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-md-8 mt-3 mb-3">
+                            <div class="widget no-border m-0 lnh-banner-text">
+                                <ul class="sm-text-center list-inline mt-5">
+                                    <li class="m-0 pl-5 pr-10"> <i class="fa fa-phone text-white"></i> <a class="text-white" href="tel:+9221111456456"> (021) 111-456-456</a> </li>
+                                    <li class="m-0 pl-5 pr-10"> <i class="fa fa-map-marker text-white"></i> <a class="text-white" href="/location/list">Locations</a> </li>
+                                    <li class="m-0 pl-5 pr-10">
+            <i class="fa fa-calendar text-white"></i>
+            <a class="text-white" href="/schedule/opdschedule">OPD Schedule</a>
+        </li>
+                                    <li class="m-0 pl-5 pr-10">
+                                        <i class="fa fa-file text-white"></i>
+                                        <a class="text-white" href="/Home/OnlineLabs" target="_blank">Online Lab Reports</a>
+                                    </li>
+                                    <li class="m-0 pl-5">
+                                        <span class="text-highlight light padding-7">
+
+                                            <a class="text-theme-red font-weight-700 hover-tg" href="/Telemedicine">Telemedicine Clinics</a>
+                                        </span>
+                                    </li>
+                                    <li class="m-0 pl-5">
+                                        <span class="text-highlight light padding-7">
+
+                                            <a class="text-theme-red font-weight-700 hover-tg" href="/services/COVID-19">COVID-19</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="widget no-border m-0">
+                                <ul class="styled-icons icon-dark icon-theme-colored icon-sm pull-right flip sm-pull-none sm-text-center">
+                                    <li><a href="https://webmail.lnh.edu.pk/owa" target="_blank" title="webmail" class="lnh-fb-icon"><i class="fa fa-envelope"></i></a></li>
+                                            <li>
+                                                <div class="searching">
+                                                    <center>
+                                                        <a class="search-open">
+                                                            <i class="fa fa-search"></i>
+                                                        </a>
+                                                    </center>
+
+                                                    <div class="search-inline">
+                                                        <form id="form_MasterSearch" method="get" action="/lnh/lnhSearch">
+                                                            <input id="txtbox_MasterSearch" type="text" name="searchText" class="form-control" placeholder="Search..." required>
+                                                            <button id="btn_MasterSearch" type="submit" class="btn search-button"><i class="fa fa-search"></i></button>
+                                                            <a class="search-close"><i class="fa fa-times"></i></a>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="container mt-5">
+                <nav id="menuzord-right" class="menuzord blue bg-lightest">
+
+                    <a class="menuzord-brand pull-left flip" href="/" id="logo-anchor">
+                        <img src="/BlueTheme/images/brand-logo.png" alt="" id="weblogo">
+                        <img src="/BlueTheme/images/logo.png" alt="" id="mobilelogo">
+                    </a>
+                    <div id="side-panel-trigger" class="side-panel-trigger"><a href="#"><i class="fa fa-bars font-24 text-gray"></i></a></div>
+                    <ul class="menuzord-menu">
+                        <li>
+                            <a href="/pages/about">About Us</a>
+                        </li>
+                        <li>
+                            <a href="/Services" target="_blank">Services <span class="fa fa-caret-down caret-styleedu"></span> </a>
+
+                            <div class="megamenu megamenu-full-width">
+                                <div class="megamenu-row lnh-clear-top">
+                                    <div class="col4">
+                                        <ul class="list-unstyled list-dashed">
+                                            <li>
+                                                <a href="/service/accident-and-emergency-services">Accident and Emergency</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/blood-bank">Blood Bank</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/cath-lab">Cath Lab</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Clinic/list">Clinics</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/day-care-surgery">Day Care Surgery</a>
+                                            </li>
+                                            <li>
+                                                <a href="/service/Executive-Health-Check-up">Executive Health Check-up </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/services/health-information-management-system">Health Information Management Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/home-health-care-service">Home Healthcare Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/in-patient-services">Inpatient Services</a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                    <div class="col4">
+                                        <ul class="list-unstyled list-dashed">
+                                            <li>
+                                                <a href="/services/intensive-care-unit">Intensive Care Unit</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/Neuropsychology-Unit">Neuropsychology Unit</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/nursing-services">Nursing Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/nutrition-and-food-services">Nutrition &amp; Food Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/occupational-therapy">Occupational Therapy Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/operation-theaters">Operation Theatres</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/Oncology-Support-Services">Oncology Support Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/out-patient-services">Outpatient Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/OrthoticAndProstheticUnit">Orthotic and Prosthetic Unit</a>
+                                            </li>
+                                           
+
+
+                                        </ul>
+                                    </div>
+
+                                    <div class="col4">
+                                        <ul class="list-unstyled list-dashed">
+                                            <li>
+                                                <a href="/services/pathology-laboratory-services">Pathology Laboratory Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/pharmacy">Pharmacy Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/physiotherapy-and-rehabilitation">Physiotherapy and Rehabilitation</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/Pre-flight-PCR-Registration">Pre-flight COVID-19 PCR Testing</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/radiology-and-imaging">Radiology and Imaging</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/seniorcitizen">Senior Citizens Primary Care Unit</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/social-services">Social Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="/services/speech-and-language-pathalogy-unit">Speech and Language Pathology Unit</a>
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/speciality-clinics" target="_blank">Specialty Clinics <span class="fa fa-caret-down caret-styleedu"></span> </a>
+
+
+                            <div class="megamenu megamenu-half-width">
+                                <div class="megamenu-row lnh-clear-top">
+                                    <div class="col6">
+                                        <ul class="list-unstyled list-dashed ml-0">
+
+                                            <li>
+                                                <a href="/Pages/Adolescent-Clinic">Adolescent Clinic</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Bariatric-and-Metabolic-Surgery">Bariatric and Metabolic Surgery</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Cochlear-Implant">Cochlear Implant Program</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Cosmetic-Surgery">Cosmetic Surgery </a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Corneal-Transplant">Corneal Transplant</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Gynae-oncology">Gynae Oncology</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Health-and-Fitness-Clinic">Health &amp; Fitness Clinic</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Infectious-Diseases">Infectious Diseases</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Infertility-Clinic">Infertility Clinic</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/Pages/LASIK">LASIK</a>
+                                            </li>
+
+
+
+
+
+
+                                        </ul>
+                                    </div>
+                                    <div class="col6">
+                                        <ul class="list-unstyled list-dashed ml-0">
+                                            <li>
+                                                <a href="/Pages/Laparoscopic-Surgery">Laparoscopic Surgery</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Metabolic-and-Genetic-disorders">Metabolic and Genetic Disorders</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Neonatology">Neonatology</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Paediatric-Cardiology">Paediatric Cardiology</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Paediatric-Infectious-diseases">Paediatric Infectious Diseases</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/Pages/Paediatric-Nephrology">Paediatric Nephrology</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/Pages/Paediatric-Neurology">Paediatric Neurology</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Paediatric-Urology">Paediatric Urology</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Pages/Urogynaecology">Urogynaecology</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+
+                            <a href="/departments">Departments</a>
+                        </li>
+                        <li>
+                            <a href="/doctors">Doctors</a>
+                        </li>
+                        <li>
+                            <a href="/education" target="_blank">Education <span class="fa fa-caret-down caret-styleedu"></span> </a>
+
+                            <ul class="dropdown">
+                                <li>
+                                    <a href="#"><span class="fa fa-caret-left caret-styleedu"></span>  Institutes </a>
+                                    <ul class="dropdown mysubmenu">
+                                        <li><a href="https://lnmc.lnh.edu.pk/" target="_blank">Medical College</a></li>
+                                        <li><a href="/Education/LNSOP/index.html" target="_blank">School of Physiotherapy</a></li>
+                                        <li><a href="/Education/LNSDLS/index.html" target="_blank">School of Diagnostic Laboratory Sciences</a></li>
+                                        <li><a href="/Education/LNCON/index.html" target="_blank">College of Nursing</a></li>
+                                        <li><a href="/Education/LNSOMT/index.html" target="_blank">School of Medical Technology</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/education/Health-Professions-Education">Health Professions Education</a>
+                                </li>
+
+                                <li>
+                                    <a href="/education/research-and-skill-development-centre">RSDC</a>
+                                </li>
+                                <li>
+                                    <a href="/education/continued-medical-education">CME</a>
+                                </li>
+                                <li>
+                                    <a href="/education/Residency-Training-Programmes">Residency Training Programmes</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/pages/Contact">Contact Us</a>
+                        </li>
+                        
+                                    <li><a href='/Account/Login' title="login">Login</a></li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+    var sp = document.querySelector('.search-open');
+    var searchbar = document.querySelector('.search-inline');
+    var shclose = document.querySelector('.search-close');
+    function changeClass() {
+        searchbar.classList.add('search-visible');
+    }
+    function closesearch() {
+        searchbar.classList.remove('search-visible');
+    }
+    sp.addEventListener('click', changeClass);
+    shclose.addEventListener('click', closesearch);
+
+</script>
+
+<script type="text/javascript">
+
+    $('#form_MasterSearch').submit(function () {
+        debugger
+        var searchText = $('#txtbox_MasterSearch').val();
+        if (searchText != null && searchText != "" && searchText.length >= 3) {
+            return true;
+        }
+        return false;
+    });
+    
+
+</script>
+
+        <div class="main-content">
+
+            <!-- Section: home -->
+
+<title>Welcome to Liaquat National Hospital and Medical College | Karachi | Pakistan</title>
+
+
+<style>
+    @media screen and (min-width:900px) {
+        .rev_slider_wrapper {
+            width: 100%;
+            height: 500px;
+        }
+
+        .zeus.tparrows {
+            top: 46% !important;
+            /*display:none;*/
+        }
+
+        .mybartop {
+            margin-top: 50px !important;
+        }
+    }
+
+
+    .imgbtnText {
+        top: 48% !important;
+        right: 82% !important;
+        background: none !important;
+        box-shadow: none !important;
+        position: absolute;
+    }
+
+
+
+    .imgbtn {
+        webkit-box-shadow: 2px 4px 17px 1px rgba(112,105,112,1);
+        -moz-box-shadow: 2px 4px 17px 1px rgba(112,105,112,1);
+        box-shadow: 2px 4px 17px 1px rgba(112,105,112,1);
+        position: absolute;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: #b71c1c;
+        color: white;
+        font-size: 24px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+        margin-left: 50%;
+    }
+
+        .imgbtn:hover {
+            background-color: #fff;
+            color: #23408e;
+        }
+    .highlight {
+        padding: 0px 1px;
+        background-color: #fff34d;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 5px;
+        -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+        -webkit-box-shadow: 0 1px 4px rgb(0 0 0 / 50%);
+        box-shadow: 0 1px 4px rgb(0 0 0 / 50%);
+        margin: 0px 0px;
+    }
+</style>
+
+<section id="home" class="divider layer-overlay overlay-dark-4">
+    <div class="container-fluid p-0">
+        <!-- Slider Revolution Start -->
+        <div class="rev_slider_wrapper">
+
+            <div class="rev_slider_wrapper">
+                <div class="rev_slider" data-version="5.0">
+
+                    <ul class="">
+
+                        <!-- SLIDE 1 -->
+                        <!-- SLIDE senior -->
+                        <!-- SLIDE senior -->
+                        <li data-index="rs-3" data-transition="fade" data-slotamount="7" data-easein="default"
+                            data-easeout="default" data-masterspeed="400" data-rotate="0" data-fstransition="fade"
+                            data-fsmasterspeed="900" data-fsslotamount="7" data-saveperformance="off"
+                            data-title="Intro" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="/BlueTheme/images/bg/slider01.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+
+                            <!-- LAYERS -->
+                        </li>
+                        <!-- SLIDE OT -->
+                        <li data-index="rs-3" data-transition="fade" data-slotamount="7" data-easein="default"
+                            data-easeout="default" data-masterspeed="400" data-rotate="0" data-fstransition="fade"
+                            data-fsmasterspeed="900" data-fsslotamount="7" data-saveperformance="off"
+                            data-title="Intro" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="/BlueTheme/images/bg/slider02.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina>
+
+
+                            <!-- LAYERS -->
+                        </li>
+
+
+                        <!-- SLIDE OT -->
+                        <!-- SLIDE 2 -->
+
+                        <li data-index="rs-1" data-transition="fade" data-slotamount="7" data-easein="default"
+                            data-easeout="default" data-masterspeed="400" data-rotate="0" data-fstransition="fade"
+                            data-fsmasterspeed="900" data-fsslotamount="7" data-saveperformance="off"
+                            data-title="Intro" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="/BlueTheme/images/bg/slider03.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina>
+
+
+
+                            <!-- LAYERS -->
+                        </li>
+                        <!-- SLIDE 3 -->
+
+                        <!-- SLIDE 4 -->
+                        <!-- SLIDE 5 -->
+                    </ul>
+                </div>
+                <!-- end .rev_slider -->
+            </div>
+            <!-- end .rev_slider -->
+        </div>
+        <!-- end .rev_slider_wrapper -->
+        <script>
+            $(document).ready(function (e) {
+                var revapi = $(".rev_slider").revolution({
+                    sliderType: "standard",
+                    sliderLayout: "auto",
+                    dottedOverlay: "none",
+                    delay: 5000,
+                    navigation: {
+                        keyboardNavigation: "off",
+                        keyboard_direction: "horizontal",
+                        mouseScrollNavigation: "off",
+                        onHoverStop: "off",
+                        touch: {
+                            touchenabled: "on",
+                            swipe_threshold: 75,
+                            swipe_min_touches: 1,
+                            swipe_direction: "horizontal",
+                            drag_block_vertical: false
+                        },
+                        arrows: {
+                            style: "zeus",
+                            enable: true,
+                            hide_onmobile: true,
+                            hide_under: 600,
+                            hide_onleave: true,
+                            hide_delay: 200,
+                            hide_delay_mobile: 1200,
+                            tmp: '<div class="tp-title-wrap">     </div>',
+                            left: {
+                                h_align: "left",
+                                v_align: "center",
+                                h_offset: 30,
+                                v_offset: 0
+                            },
+                            right: {
+                                h_align: "right",
+                                v_align: "center",
+                                h_offset: 30,
+                                v_offset: 0
+                            }
+                        }
+                    },
+                    responsiveLevels: [1240, 1024, 778],
+                    visibilityLevels: [1240, 1024, 778],
+                    gridwidth: [1170, 1024, 778, 480],
+                    gridheight: [500, 300, 300, 300],   //parallax height//
+                    lazyType: "none",
+                    parallax: {
+                        origo: "slidercenter",
+                        speed: 1000,
+                        levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 46, 47, 48, 49, 50, 100, 55],
+                        type: "scroll"
+                    },
+                    shadow: 0,
+                    spinner: "off",
+                    stopLoop: "on",
+                    stopAfterLoops: 0,
+                    stopAtSlide: -1,
+                    shuffle: "off",
+                    autoHeight: "off",
+                    fullScreenAutoWidth: "off",
+                    fullScreenAlignForce: "off",
+                    fullScreenOffsetContainer: "",
+                    fullScreenOffset: "0",
+                    hideThumbsOnMobile: "off",
+                    hideSliderAtLimit: 0,
+                    hideCaptionAtLimit: 0,
+                    hideAllCaptionAtLilmit: 0,
+                    debugMode: false,
+                    fallbacks: {
+                        simplifyAll: "off",
+                        nextSlideOnWindowFocus: "off",
+                        disableFocusListener: false,
+                    }
+                });
+            });
+
+        </script>
+        <!-- Slider Revolution Ends -->
+
+    </div>
+</section>
+
+
+
+
+<!-- Section: home-boxes -->
+
+<section class="divider parallax mybartop">
+    <div class="container pt-0 pb-0">
+        <div class="section-content">
+            <div class="row equal-height-inner home-boxes mt-sm-20">
+
+                <div class="col-sm-12 col-md-4 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0">
+
+                    <div class="mb-30">
+                        <div class="p-25 bg-imgFind">
+                            <h3 class="title line-height-1 mt-0 mb-20 text-white font-weight-500">Find A Doctor </h3>
+
+                            <form id="appointment_form" name="appointment_form" class="mt-20">
+                                <div class="row mb-10">
+
+                                    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+
+                                        <input name="SearchName" type="text" class="finddr_txt form-control form-patient-main form-patient form-patient-text effect-1-main effect-1" id="find-a-doctor2" placeholder="Search by Name" />
+                                        <span class="focus-border"></span>
+
+                                    </div>
+
+                                    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+
+                                        <input name="SearchDepartment" type="text" class="finddr_txt form-control form-patient-main form-patient form-patient-text effect-1-main effect-1" id="find-a-doctor-by-dept" placeholder="Search by Department" />
+                                        <span class="focus-border"></span>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="form-group">
+                                    <input name="form_botcheck" class="form-control" type="hidden" value="" />
+
+
+                                    <button type="submit" class="btn btn-sm btn-theme-blueindex  mb-sm-30" data-loading-text="Please wait..." onclick="SearchDoctor2();">Search</button>
+                                    <button type="reset" class="btn btn-sm btn-theme-blueindex  mb-sm-30" onclick="ClearAll();">Reset</button>
+                                </div>
+                            </form>
+                            <!-- Appointment Form Validation-->
+                            <script type="text/javascript">
+                                $("#appointment_form").validate({
+                                    submitHandler: function (form) {
+                                        var form_btn = $(form).find('button[type="submit"]');
+                                        var form_result_div = '#form-result';
+                                        $(form_result_div).remove();
+                                        form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+                                        var form_btn_old_msg = form_btn.html();
+                                        form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                        $(form).ajaxSubmit({
+                                            dataType: 'json',
+                                            success: function (data) {
+                                                if (data.status == 'true') {
+                                                    $(form).find('.form-control').val('');
+                                                }
+                                                form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                                $(form_result_div).html(data.message).fadeIn('slow');
+                                                setTimeout(function () { $(form_result_div).fadeOut('slow') }, 6000);
+                                            }
+                                        });
+                                    }
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 pr-10 pr-0 pr-sm-15 sm-height-auto mt-sm-0">
+                    <div class="mb-30">
+
+                        <div class="p-25 bg-imgFind bg01light">
+                            <h3 class="title line-height-1 mt-0">
+                                <a href="/Location/List?LocationName=All" class=" text-white font-weight-500">
+                                    Outreach Medical Services Locations
+                                </a>
+                            </h3>
+                            <form id="appointment_form1" name="appointment_form1" action="Location/List" class="mt-20">
+                                <div class="row mb-10">
+
+                                    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+                                  
+                                        <span class="dropdownOutreach">
+                                            <select class="form-patient-text" id="locationDropdown">
+                                                <option class="text-black-333" value="none" disabled selected hidden>Select...</option>
+                                                <option class="text-black-333">Gulistan-e-Jauhar</option>
+                                                <option class="text-black-333">Gulshan-e-Iqbal</option>
+                                                <option class="text-black-333">Naseerabad</option>
+                                                <option class="text-black-333"> Nazimabad</option>
+                                                <option class="text-black-333">Shah Faisal Colony</option>
+                                                 
+                                            </select>
+                                        </span>
+
+
+
+                                    </div>
+
+
+
+
+                                </div>
+
+                                
+                                <div class="form-group mt-30">
+
+                                    <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                                    </div>
+                                    <div class="form-group mt-30">
+                                        <input name="LocationName" id="LocationName" class="form-control" type="hidden" value="All" />
+
+                                        <button type="submit" class="btn btn-sm btn-theme-lightblueindex align-content-center  mb-sm-30" data-loading-text="Please wait..." onclick="SearchLocation();">Search</button>
+                                        <button type="reset" class="btn btn-sm btn-theme-lightblueindex  mb-sm-30" onclick="ClearAll();">Reset</button>
+                                    </div>
+</form>
+
+                           
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-4 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0">
+                    <div class="mb-30">
+                        <div class="p-25 bg-imgFind">
+                            <h3 class="title line-height-1 mt-0 mb-20 text-white font-weight-500">Online Lab Reports </h3>
+
+                            <form id="Reports_form" name="Reports_form" class="mt-20" action="Home/GetReports">
+                                <div class="row mb-10">
+
+                                    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+
+                                        <input  name="ReqNo" type="text" class="form-control form-patient-main form-patient form-patient-text effect-1-main effect-1" id="find-a-doctor2" placeholder="Requisition Number" required/>
+                                        <span class="focus-border"></span>
+
+                                    </div>
+
+                                    <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+
+                                        <input name="CaseNo" type="text" class="form-control form-patient-main form-patient form-patient-text effect-1-main effect-1" id="find-a-doctor-by-dept" placeholder="Case/OPD/Direct Number" required/>
+                                        <span class="focus-border"></span>
+
+                                    </div>
+
+
+                                </div>
+
+
+                                <div class="form-group">
+                                    <input name="form_botcheck" class="form-control" type="hidden" value="" />
+
+
+                                    <button type="submit" class="btn btn-sm btn-theme-blueindex  mb-sm-30" data-loading-text="Please wait..." onclick="GetReports(this);">Get Reports</button>
+                                    
+                                    <a href="http://track.lnh.edu.pk/imgs/onlinereport_instruction_V4.jpg?v=4" class="btn btn-sm btn-theme-blueindex mb-sm-30" target="_blank"> Need Help?</a>
+
+                                        
+                               
+                                </div>
+                            </form>
+                            <!-- Appointment Form Validation-->
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Section: welcome -->
+<!-- Section: Services -->
+<section id="section3" class="">
+    <div class="container">
+
+
+        <!-- row -->
+        <div class="row">
+
+
+
+            <a href="/service/accident-and-emergency-services" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2 wow fadeInLeft animation-delay1">
+                    <img class="icon" src="../BlueTheme/images/Services/ER.png" alt="Icon">
+                    <h5 class="text-center text-theme-color font-weight-500">ER</h5>
+
+                </div>
+
+
+            </a>
+            <a href="/speciality-clinics" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2 wow fadeInLeft animation-delay2">
+                    <img class="icon" src="../BlueTheme/images/Services/Speciality-Clinic.png" alt="Icon">
+
+                    <h5 class="text-center text-theme-color font-weight-500">Specialty Clinics</h5>
+
+                </div>
+
+            </a>
+            <a href="/services/physiotherapy-and-rehabilitation" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2  wow fadeInLeft animation-delay3">
+                    <img class="icon" src="../BlueTheme/images/Services/Physiothrapy-icon.png" alt="Icon">
+                    <h5 class="text-center text-theme-color font-weight-500">Physiotherapy </h5>
+
+                </div>
+
+            </a>
+            <a href="/services/home-health-care-service" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2 wow fadeInLeft animation-delay4">
+                    <img class="icon" src="../BlueTheme/images/Services/HomeHealthcare.png" alt="Icon">
+                    <h5 class="text-center text-theme-color font-weight-500">Home Healthcare Services</h5>
+
+                </div>
+            </a>
+
+            <a href="/services/seniorcitizen" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2 wow fadeInLeft animation-delay5">
+                    <img class="icon" src="../BlueTheme/images/Services/SCPCU.png" alt="Icon">
+                    <h5 class="text-center text-theme-color font-weight-500">Senior Citizens Primary Care Unit</h5>
+
+                </div>
+
+            </a>
+
+            <a href="/service/Executive-Health-Check-up" target="_blank">
+                <div class="col-xs-offset-3 col-xs-6 col-sm-offset-0 col-sm-6 col-md-2 col-lg-2  wow fadeInLeft animation-delay6">
+                    <img class="icon" src="../BlueTheme/images/Services/ExecutiveHealthcare1.png" alt="Icon">
+                    <h5 class="text-center text-theme-color font-weight-500">Executive Health Check-up</h5>
+
+                </div>
+
+            </a>
+
+        </div>
+
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="/education" target="_blank">
+                    <h2 class="line-bottom-theme-colored-2 font-weight-500 text-center">
+                        Institutes
+                    </h2></a>
+</div>
+        </div>
+        <div class="row tours">
+           
+                <div class="tourcard">
+                    <a href="http://lnmc.lnh.edu.pk/">
+                        <figure>
+                            <div class="tourpic img-wrapperins">
+                                <img src="../Bluetheme/images/bg/LNMC_thumb.jpg" class="inner-img" alt="Medical College">
+
+                                <span class="tourday hot">Medical College</span>
+                            </div>
+
+
+                        </figure>
+                    </a>
+                </div>
+            
+                <div class="tourcard">
+                    <a href="/Education/LNSOMT/Index.html" target="_blank">
+                        <figure>
+                            <div class="tourpic img-wrapperins">
+                                <img src="../Bluetheme/images/bg/LNMT_thumb.JPG" class="inner-img" alt="School of Medical Technology">
+
+                                <span class="tourday hot">School of Medical Technology</span>
+                            </div>
+
+
+                        </figure></a>
+                </div>
+                <div class="tourcard">
+                    <a href="Education/LNCON/index.html">
+                        <figure>
+                            <div class="tourpic img-wrapperins">
+                                <img src="../Bluetheme/images/bg/LNCON_thumb.jpg" class="inner-img" alt="College of Nursing">
+
+                                <span class="tourday hot">College of Nursing</span>
+                            </div>
+
+
+                        </figure>
+                    </a>
+                </div>
+                <div class="tourcard">
+                    <a href="Education/LNSOP/index.html">
+                        <figure>
+                            <div class="tourpic img-wrapperins">
+                                
+                                <img src="../Bluetheme/images/bg/LNPOS_thumb.jpg" class="inner-img" alt="School of Physiotherapy">
+
+                                <span class="tourday hot">
+                                    School of Physiotherapy
+                                </span>
+                            </div>
+
+
+                        </figure>
+                        </a>
+                </div>
+                <div class="tourcard">
+                    <a href="/Education/LNSDLS/index.html" class="">
+                        <figure class="tourpic-img ">
+                            <div class="tourpic img-wrapperins">
+                                <img src="../Bluetheme/images/bg/SDLS_thumb.jpg" class="inner-img" alt="School of Diagnostic Laboratory Sciences">
+
+                                <span class="tourday hot">School of Diagnostic Laboratory Sciences</span>
+                            </div>
+
+
+                        </figure>
+                        </a>
+                </div>
+        </div>
+    </div>
+</section>
+<!-- Section: blog -->
+
+
+
+
+<style>
+    article img {
+        width: 80px;
+        height: 80px;
+    }
+
+</style>
+
+<section id="news" class="divider parallax bg-lighter" data-parallax-ratio="0.1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="widget dark">
+                    <a href="/NewsAndEvents" target="_blank"><h2 class="line-bottom-theme-colored-2 font-weight-500">News and Events</h2>
+                    <span class="pull-right font-12 text-theme-colored" style="margin-top:-7%;"><i class="fa fa-long-arrow-right font-20" aria-hidden="true"></i></span>
+                    </a>
+
+                    <div class="latest-posts div-scroll div-scroll-text">
+
+                            <article class="post media-post clearfix pb-0 mb-10 border-bottom-1px">
+                                    <a class="post-thumb" href="/newsandevents/detail?uid=0562671e-41ff-49ec-95f3-b6ddee94ee3a">
+                                        <img src="https://apiv1.lnh.edu.pk//UploadedImages//111165a2-b337-4da7-9dbd-b9dca9fa8d7a.jpg" alt="">
+                                    </a>
+
+                                <div class="post-right">
+                                    <h5 class=" mt-0 mb-5"><a href="/newsandevents/detail?uid=0562671e-41ff-49ec-95f3-b6ddee94ee3a" target="_blank">Postgraduate Certificate Course in Family Medicine Batch 2023-2024</a></h5>
+
+                                        <span class="font-13">
+                                            Application deadline: February 5, 2023
+                                        </span>
+
+                                    <a href="/newsandevents/detail?uid=0562671e-41ff-49ec-95f3-b6ddee94ee3a" target="_blank"><span class=" font-10 text-theme-colored pull-right">Read More...</span></a>
+                                </div>
+                            </article>
+                            <article class="post media-post clearfix pb-0 mb-10 border-bottom-1px">
+                                    <a class="post-thumb" href="/newsandevents/detail?uid=61a770f9-4825-4d47-9328-f7eb8fe114c0"><img src="https://apiv1.lnh.edu.pk//UploadedImages//a61e1c7d-d219-42e2-9934-f5240c7ab351.jpg" alt=""></a>
+
+                                <div class="post-right">
+                                    <h5 class=" mt-0 mb-5"><a href="/newsandevents/detail?uid=61a770f9-4825-4d47-9328-f7eb8fe114c0" target="_blank">Admissions in BS-Medical Technology-Clinical Lab Sciences Batch 2023</a></h5>
+
+                                        <span class="font-13">
+                                            Final Merit List of Selected Candidates and Waiting List
+                                        </span>
+
+                                    <a href="/newsandevents/detail?uid=61a770f9-4825-4d47-9328-f7eb8fe114c0" target="_blank"><span class=" font-10 text-theme-colored pull-right">Read More...</span></a>
+                                </div>
+                            </article>
+                            <article class="post media-post clearfix pb-0 mb-10 border-bottom-1px">
+                                    <a class="post-thumb" href="/newsandevents/detail?uid=6e591f69-89d3-4629-a696-fa2fe6ae2077">
+                                        <img src="https://apiv1.lnh.edu.pk//UploadedImages//6d1a94da-4ad1-4c19-a4a3-328295f83de4.JPG" alt="">
+                                    </a>
+
+                                <div class="post-right">
+                                    <h5 class=" mt-0 mb-5"><a href="/newsandevents/detail?uid=6e591f69-89d3-4629-a696-fa2fe6ae2077" target="_blank">Admissions Open in BSMT (Clinical Laboratory Sciences)</a></h5>
+
+                                        <span class="font-13">
+                                            Last date for submission of forms: January 13, 2023
+                                        </span>
+
+                                    <a href="/newsandevents/detail?uid=6e591f69-89d3-4629-a696-fa2fe6ae2077" target="_blank"><span class=" font-10 text-theme-colored pull-right">Read More...</span></a>
+                                </div>
+                            </article>
+                            <article class="post media-post clearfix pb-0 mb-10 border-bottom-1px">
+                                    <a class="post-thumb" href="/newsandevents/detail?uid=714f1ca1-07e3-4795-8550-94f6cac7e0ea">
+                                        <img src="https://apiv1.lnh.edu.pk//UploadedImages//ea6f8021-f14b-40ed-bfba-c64f30c71667.jpg" alt="">
+                                    </a>
+
+                                <div class="post-right">
+                                    <h5 class=" mt-0 mb-5"><a href="/newsandevents/detail?uid=714f1ca1-07e3-4795-8550-94f6cac7e0ea" target="_blank">2 Days Certificate Workshop on Management Systems and Legal Requirements in Hospital and Industries</a></h5>
+
+                                        <span class="font-13">
+                                            January 11 and 12, 2023
+                                        </span>
+
+                                    <a href="/newsandevents/detail?uid=714f1ca1-07e3-4795-8550-94f6cac7e0ea" target="_blank"><span class=" font-10 text-theme-colored pull-right">Read More...</span></a>
+                                </div>
+                            </article>
+                            <article class="post media-post clearfix pb-0 mb-10 border-bottom-1px">
+                                    <a class="post-thumb" href="/newsandevents/detail?uid=1013126c-653e-4c66-9ef3-363a9bc66d69">
+                                        <img src="https://apiv1.lnh.edu.pk//UploadedImages//e2c143c1-0e55-4b99-9d7f-6de20f66c119.png" alt="">
+                                    </a>
+
+                                <div class="post-right">
+                                    <h5 class=" mt-0 mb-5"><a href="/newsandevents/detail?uid=1013126c-653e-4c66-9ef3-363a9bc66d69" target="_blank">An Awareness Session on Developmental Delays &#x201C;From Impossible to I am Possible&#x201D;</a></h5>
+
+                                        <span class="font-13">
+                                            January 7, 2023
+                                        </span>
+
+                                    <a href="/newsandevents/detail?uid=1013126c-653e-4c66-9ef3-363a9bc66d69" target="_blank"><span class=" font-10 text-theme-colored pull-right">Read More...</span></a>
+                                </div>
+                            </article>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="row">
+                    <div class="col-md-12">
+                        <a href="/lnh/patients-guide" target="_blank">
+                            <article class="post clearfix p-40 bg-gray  wow fadeInLeft animation-delay1">
+                                
+                                <div class="">
+                                    <div class="entry-meta media mt-0 no-bg no-border">
+
+                                        <div class="media-body">
+                                            <div class="event-content pull-left">
+                                                <h2 class="entry-title text-white  text-left font-weight-500">
+                                                    Patient and Visitor Guide
+                                                </h2>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="clearfix"></div>
+
+                                </div>
+                                <span class="pull-right font-12 text-white" style="margin-top:5%;"><i class="fa fa-long-arrow-right font-20" aria-hidden="true"></i></span>
+                            </article>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-6 pr-0 g-0">
+                        <article class="post clearfix  wow fadeInLeft animation-delay1">
+                            <div class="clearfix"></div>
+                            <div class="entry-content">
+                                <a class="post-link text-center text-white bg-theme-colored display-block font-30 p-30" href="/gallery"  target="_blank">
+                                    <h2 class="text-white text-left font-weight-500"> Gallery</h2>
+                                    <br />
+                                    <span class="pull-right font-12 text-white" style="margin-top:-5%;"><i class="fa fa-long-arrow-right font-20" aria-hidden="true"></i></span>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 pl-0 g-0">
+                        <article class="post clearfix  wow fadeInLeft animation-delay2">
+                            <div class="clearfix"></div>
+                            <div class="entry-content">
+                                <a class="post-link text-center text-white bg01light display-block font-30 p-30" href="/Discounts-offers" target="_blank">
+                                    <h2 class="text-white text-left font-weight-500">Discounts and Offers </h2>
+                                    <span class="pull-right font-12 text-theme-colored" style="margin-top:-3%;"><i class="fa fa-long-arrow-right font-20" aria-hidden="true"></i></span>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                </div>
+
+            </div>
+          
+        </div>
+    </div>
+</section>
+
+<style>
+    .height-120 {
+        height: 46px;
+    }
+    .pl-3{
+        padding-left:3px;
+    }
+</style>
+
+
+
+
+<!-- Section: Gallery -->
+
+
+
+
+<ul id="doctorOptions" style="display:none">
+    <li value="Dr.  Amanullah  Khan">c3eb2bfb-5cc5-4e6b-aecf-192afa8a288c</li>
+    <li value="Dr.  Rizwan  Ajmal">ccee4256-c1c7-4d6d-aa5d-e5e42d1bb659</li>
+    <li value="Prof. Dr. Abdul Hameed Siddiqui">a6084d62-d585-4e69-a6f3-745c116bfeb1</li>
+    <li value="Dr. Abne Hasan">e1bff1a9-501e-4ee0-92c6-2b4fcfe9faa6</li>
+    <li value="Dr. Adnan Munir Khawaja">21d21381-7beb-4f26-9a5c-44b51dc68d3d</li>
+    <li value="Dr. Afaq Saleem Siddiqui">3bbc1a3a-f591-47eb-8e1c-90335bfd3f24</li>
+    <li value="Dr. Afsheen Javaid Khokher">4575fcdc-df3f-49dd-844c-7c8a2d8e6b6a</li>
+    <li value="Dr. Agha Ghulam Mustafa">33df8ff1-4d0a-4136-a76d-6b8579fba97d</li>
+    <li value="Dr. Ahmad Nawaz">81ca369a-968e-428e-bb0a-ae1eab8a0e2c</li>
+    <li value="Dr. Ahmed Irfan">d212ca46-ca96-4c0b-81a5-e836cf133ef0</li>
+    <li value="Mr. Ahmer Zuberi">bece0c7c-f3d2-4334-9226-5e82b86a11cd</li>
+    <li value="Dr. Aisha Taj">657f63d6-e59d-4db9-b617-151a5e75ec95</li>
+    <li value="Dr. Aisha Majid">789cab36-77d6-49c9-82ab-14acd557d4e1</li>
+    <li value="Dr. Ali Asgher">f28813a8-5388-4206-ae64-ad4d0ccf7cea</li>
+    <li value="Dr. Ali Asghar">d04a501d-50b3-4bea-996e-73a9d769c5a1</li>
+    <li value="Dr. Amir Riaz">4616e801-a211-419a-bed2-47658e5c65c1</li>
+    <li value="Dr. Amna Khurshid">89ff11ba-7d71-4293-bd74-a49791958506</li>
+    <li value="Dr. Anila Malik">adce9946-7a9b-4f50-aa75-92b676863a80</li>
+    <li value="Prof. Dr. Anwar Ul Haque">0091efa5-6437-415e-ad68-769333f6c9b0</li>
+    <li value="Dr. Aqiba Sarfaraz">333d4cfa-0182-4755-95f7-06deec7ef697</li>
+    <li value="Dr. Aqil Qayoom Khanzada">ac8e1cc9-7c91-44f0-9ebc-ae73f86a0f16</li>
+    <li value="Dr. Arif Iftikhar Mallhi">5c847a00-5a4f-450e-b3f8-b311a9b161c1</li>
+    <li value="Dr. Asad Abbas Jafri">56199216-d304-4e2f-bdb2-c603a54c24d5</li>
+    <li value="Dr. Asif Mateen">989b0a13-8760-4019-94f4-ac89200fe297</li>
+    <li value="Dr. Asif Ali Arain">11462f3c-2ac0-4477-9f28-4725d65004be</li>
+    <li value="Dr. Ataur Rehman">ec184c93-5d79-4b1f-90a5-1c384f6f2d03</li>
+    <li value="Dr. Atif Javed">447bbdae-f176-4517-8d8a-b44ca69705f6</li>
+    <li value="Dr. Atif Ali Hashmi">9e9c0a8e-16e1-4fcb-8ec3-33c485fdd083</li>
+    <li value="Dr. Atika Sher">318e3178-591e-4716-b50b-ba1c86c69658</li>
+    <li value="Dr. Ayesha Hina">8e043dba-130f-4786-83c5-3e1176cc621f</li>
+    <li value="Dr. Azam Ali">e69981b6-5b3b-4d7a-b8d5-bc206e331937</li>
+    <li value="Dr. Aziz Abdullah">a7e40a9d-b553-40b4-8767-87eedcc1ec99</li>
+    <li value="Dr. Aziz Jamal Naqvi">8320d689-12b4-4c18-b025-3a9cb273b820</li>
+    <li value="Dr. Baseer Sultan Ahmed">9fe9acdf-0def-44f8-8bad-a51abd2e4ff1</li>
+    <li value="Dr. Brig. Mubushra Samina">99d2ab05-cda7-4173-8a95-88e65a4f3a83</li>
+    <li value="Dr. Bushra Shamim">af449c82-f245-4a90-9481-fd49b10b6f12</li>
+    <li value="Ms. Bushra Khalid">ee9a2813-cc88-4bb8-b1d4-2ce3f0fd91ae</li>
+    <li value="Dr. Danial Khalid Siddiqui">2474169a-a3b9-48e0-adbc-f385295b439d</li>
+    <li value="Dr. Durr-E-Shahwar Khan">92599c56-ee4a-418d-a03b-0787ac14fbb0</li>
+    <li value="Dr. Eraj Fatima">36596b33-ac12-4a54-b8ce-87db1b3431aa</li>
+    <li value="Dr. Fahad Nasim">41f829d2-a985-4486-b180-152dc1577394</li>
+    <li value="Dr. Faisal Siddiqi">1292d4d4-ee68-459a-9700-c7c8d8c7691d</li>
+    <li value="Dr. Faisal Ahmed">8795ac89-e822-4457-947d-fb81829518dc</li>
+    <li value="Dr. Farheen Saboor">708b9578-0c7b-4bd1-b449-6f0caee618af</li>
+    <li value="Dr. Farida Jan">be8dd28d-64b8-4a8b-a315-1dbb40382702</li>
+    <li value="Dr. Farrukh Ahmed">a388b85e-0b0f-4ecf-9237-6fe81b2b7baf</li>
+    <li value="Dr. Farzana Adnan">d85e5219-5ce2-45de-bc0c-e2ed91e8b041</li>
+    <li value="Dr. Fatima Kanwal">ea630bb2-b61c-48be-ad5c-3a45d5f9227d</li>
+    <li value="Dr. Feroza Saleem">fa0f8690-da24-4afd-9ee6-910cf2986bb0</li>
+    <li value="Dr. Ghulam Murtaza">4b1d5717-9130-4be4-aa37-6eae09b582eb</li>
+    <li value="Dr. Hafeez Ahmed">f88297a8-bfa0-41f8-8326-a6ce5b7f5c35</li>
+    <li value="Prof. Dr. Haleema Hashmi">1b963c64-9413-466a-9e5f-ac316a624e01</li>
+    <li value="Dr. Hanif Kamal">a93c296f-bd04-48bf-9830-d1993f52fe01</li>
+    <li value="Dr. Hazim M. Yousuf Brohi">515f13fb-b1a3-476e-874b-78a45a4bf77e</li>
+    <li value="Dr. Hina Yousuf">1fd4aa40-297a-428c-975b-c05a5165d331</li>
+    <li value="Dr. Hinna Khani ">167076a9-5ec9-46f2-bd40-bec5bdc1ab0c</li>
+    <li value="Dr. Hira Khan Afridi">5be535e0-87a8-4638-a51f-6ccecf083319</li>
+    <li value="Dr. Humaira (Howrah) Ali">f98daacd-c48f-4ac0-b4c1-14f01895b7cf</li>
+    <li value="Prof. Dr. Imran Ghayoor">87a7ad60-3f7a-4c78-9a45-0dc468b79ede</li>
+    <li value="Dr. Imran Khan Sandeelo">d4920edc-9751-44e9-8ad2-d9b241cdb003</li>
+    <li value="Prof. Dr. Intikhab Taufiq">75cec1af-c019-415a-bda5-6a3d71a4d4b3</li>
+    <li value="Dr. Iqbal Hussain">2f72e117-19b2-4e35-abd1-1711cf607661</li>
+    <li value="Dr. Iqbal Shahzad">6115bb25-2343-471d-9373-f7b0161863a8</li>
+    <li value="Dr. Iqtidar Taufiq">16b221e0-d101-4668-b4dc-80cf9ff45ac5</li>
+    <li value="Dr. Ishrat Saleem">35863857-0fc5-4440-9230-de2a9ed5479a</li>
+    <li value="Dr. Jawaid  Iqbal">a39616d5-5477-4621-9d04-10e00d2ddcd3</li>
+    <li value="Prof. Dr. Junaid Mehmood Alam">76aeb65c-85af-4252-8cf5-a3668aa251cc</li>
+    <li value="Dr. Kaleem Ullah Shaikh">d25c30f5-a754-4ab1-a1fe-9e69b5142ddf</li>
+    <li value="Prof. Dr. Kamal Ahmed">6516d641-cc9a-45c3-8160-0bbaf492dc9a</li>
+    <li value="Prof. Dr. Kamal Muhammad Yousuf">bda0353f-6d80-4bb9-ba53-5f79162fdb0c</li>
+    <li value="Prof. Dr. Kaniz Zehra Naqvi">1bd7e94f-f6cc-4c06-adce-ef4f5480ba72</li>
+    <li value="Prof. Dr. Karim Ullah Makki">b1b528fd-3102-4acf-bc1a-d31fb79dca53</li>
+    <li value="Dr. Kashif Abbas">53ea9535-53e8-4e92-a125-a86bbcb27d0c</li>
+    <li value="Dr. Khalid Ahmed Bhambha">d1950fa8-5527-457d-8d03-abde4498ee59</li>
+    <li value="Dr. Komal  Owais">1eec3da4-958d-47a3-bb5a-a0aa1e4a3ce2</li>
+    <li value="Prof. Dr. Kunwar Naveed Mukhtar">953fff31-703b-4cb2-b54f-d0a1295f2066</li>
+    <li value="Prof. Dr. Lubna Kamani">7005ff03-f9f6-4b1c-a9ec-0980d43c2864</li>
+    <li value="Dr. Lubna Nazir">77f2722f-4c36-4fb9-b7cc-f62ddbf89a96</li>
+    <li value="Dr. Mabroor Ahmed Bhatti">467f14ee-bd13-404d-9b67-22efdf45d2af</li>
+    <li value="Prof. Dr. Mansoor Ul Haq">c668d3b1-3f5e-46cc-b221-3a1996ed4d12</li>
+    <li value="Dr. Manzar Hussain">0659624d-46bb-4d66-bb4d-9e8281bca9fc</li>
+    <li value="Dr. Maria Jabeen">bb81201d-b9db-41b3-9efb-dd48b645390b</li>
+    <li value="Prof. Dr. Mehnaz Atiq Ahmed">203e97f0-13de-4a97-adc0-959daee9a07e</li>
+    <li value="Prof. Dr. Mervyn Moin Hosien">60290de3-a70d-4b7c-8ad9-ed6a71336522</li>
+    <li value="Dr. Miray Hassan">a402760f-d4d8-48cd-bad1-389ff91be7a6</li>
+    <li value="Dr. Mirza Arshad Beg">67d36f07-8902-49b6-9756-b866cd925e1f</li>
+    <li value="Prof. Dr. Mirza Shehab Afzal Beg">5412d3b2-ba60-4696-b004-7bbcb0a236a9</li>
+    <li value="Dr. Mohammad Asim">ed472551-9836-4d82-b57c-b1c48eb2e07c</li>
+    <li value="Dr. Mohammad Qaiser Aziz Khan">ecf6e751-b317-4f25-9be7-f0380f39de4c</li>
+    <li value="Prof. Dr. Moiz Sadiq">b0e9cf71-0925-4baa-b317-16a130045aa4</li>
+    <li value="Dr. Moomal  Zoya">12fbe190-df11-433e-abc6-8912be1065cc</li>
+    <li value="Prof. Dr. Muhammad Nadeem Khurshaidi">d8756b63-f572-420a-93fc-b6dadfe316c7</li>
+    <li value="Prof. Dr. Muhammad Sirajuddin">90f4c338-f0bd-4f82-b5a7-4d1243799f41</li>
+    <li value="Dr. Muhammad Aamir Saghir">3ee951f3-f7c9-425b-a750-af69e11a14fe</li>
+    <li value="Dr. Muhammad Imran">569cf3b4-de9d-4e8d-9e59-1c1aac4452e6</li>
+    <li value="Dr. Muhammad Sufyan">4a52ccc7-9004-4665-98fa-a2c36374faa3</li>
+    <li value="Dr. Muhammad Rashid">8adf26e7-1946-4f74-ba50-af9019509fde</li>
+    <li value="Prof. Dr. Muhammad Farhan">5f24df5a-84fc-41e9-a4f7-a6df92cc253b</li>
+    <li value="Prof. Dr. Muhammad Arshad">381b5d6d-9cd1-49db-b302-7a1c062a665c</li>
+    <li value="Dr. Muhammad  Ali">25f8e638-2d36-4534-a3d0-82ba46312ca7</li>
+    <li value="Dr. Muhammad  Abid">7936d638-4f76-4b4c-b6bf-ec12da28d072</li>
+    <li value="Dr. Muhammad Amim Anwar">5e137ed9-6037-47c3-9317-e9db9ebf4304</li>
+    <li value="Dr. Muhammad Ashfaq Younus">b708e25d-57ea-4e20-a075-027da034e5f3</li>
+    <li value="Dr. Muhammad Asif Peracha">6de19881-1faf-4f9f-a266-084f8ce8e8e7</li>
+    <li value="Prof. Dr. Muhammad Ayub  Mansoor">8f7c245e-d52a-4df5-a970-f85807cb9e77</li>
+    <li value="Dr. Muhammad Faisal Khanzada">c9be65cd-b439-445a-a7ec-2d437d1a6cc7</li>
+    <li value="Dr. Muhammad Hamza Khan">aaf93d2a-0ca2-4fc2-9cfa-2e2294f5d6fb</li>
+    <li value="Dr. Muhammad Irfan Ahsan">3fdf88f0-4e88-4dba-81c7-2c8080900151</li>
+    <li value="Dr. Muhammad Kamran Younis Memon">a87b60c0-c952-42d7-923c-fb7f9c1650d3</li>
+    <li value="Dr. Muhammad Kazim Rahim">f5cff77d-34ad-46f9-a253-f4fec3030a01</li>
+    <li value="Dr. Muhammad Misbah Tahir">3f750436-57c2-493c-aaf6-4d2ec9773e11</li>
+    <li value="Dr. Muhammad Misbah Tahir">da5fc08c-f1c2-4b9d-8480-a9df73de205e</li>
+    <li value="Dr. Muhammad Owais Khan">b1edf161-65b0-492a-9c52-28a8856c7abd</li>
+    <li value="Dr. Muhammad Owais Rashid">b4ef91b1-17c1-419a-835e-74de9df8b953</li>
+    <li value="Dr. Muhammad Shahab Ghani">7ed0bad3-5305-48d0-b13c-55bf075127ea</li>
+    <li value="Dr. Muhammad Tariq Jamil">9ed0d6a9-9cb4-464d-88c9-6839210872d4</li>
+    <li value="Dr. Muhammad Yousuf Shaikh">e6c9aab6-af04-4393-93f7-005422f71e97</li>
+    <li value="Ms. Munazza Haq">6b076a00-93b7-4673-9447-b5629cfcc79b</li>
+    <li value="Dr. Muneer Amanullah">b51d7e03-7242-46b5-958b-9212b98726bc</li>
+    <li value="Prof. Dr. Munira Shakir">ff504871-fc57-4406-84d2-7945a8fe660a</li>
+    <li value="Dr. Munnawer Anjum">5f6ef3b9-c3c4-4ff9-b2e9-194e4d1e4a86</li>
+    <li value="Prof. Dr. Naila A. Zahid">465ad025-2ba2-4c06-80a8-429892966803</li>
+    <li value="Dr. Naila Asif">793e0bb7-a7e3-4f96-af9d-d278330edf2d</li>
+    <li value="Dr. Naila Raza">302265ca-8aea-468f-ab11-936531971a6f</li>
+    <li value="Dr. Najeeb Naimatullah">69f618b5-6d91-4644-b308-1db1d67e8396</li>
+    <li value="Dr. Najia Aslam Soomro">346678d8-d918-432f-ab4d-f3e29b0f9254</li>
+    <li value="Dr. Nasir Ahmed">3487fb23-4c67-47d6-a5a0-5950174c7c9c</li>
+    <li value="Dr. Nausheen Haroon Ahmed">45b184dc-09ff-476f-8bca-5357f2781587</li>
+    <li value="Dr. Naveed Uddin Ahmed">9357e45c-79df-4d8e-84a9-742d085412ee</li>
+    <li value="Prof. Dr. Naveen Faridi">068a5021-6746-453a-8764-a90663630977</li>
+    <li value="Prof. Dr. Nighat Abbas">b0587c1f-5e1b-4c2e-8ebe-3afc842195e4</li>
+    <li value="Dr. Obaid Ur Rehman">778f96cd-3dfa-4a72-af85-2fddd003aa80</li>
+    <li value="Dr. Pervez Ashraf">56ffab7f-d8c1-433b-9512-413032137bc1</li>
+    <li value="Dr. Qurat Ul Aman Siddiqui">767294ec-b02e-476c-8cb5-b5fe54407a2e</li>
+    <li value="Dr. Rabeea Shah">a36b49b4-df03-4850-b4e1-cb1da1e24b3b</li>
+    <li value="Dr. Rabeeya Saeed">c3ad6a21-f826-4a8b-a45c-f28151c861f3</li>
+    <li value="Dr. Rabia Ali">2f062477-395d-4017-9489-080a8366e8ea</li>
+    <li value="Dr. Raheel Hussain">eb6f01c7-f3d7-4b71-a83a-f248ffc82611</li>
+    <li value="Dr. Raj Kumar">a3cd2889-b854-4457-a0d1-54931b744cec</li>
+    <li value="Dr. Rajesh Kumar">a4393881-f38b-436d-90ba-a92f1cd8d652</li>
+    <li value="Dr. Rajesh Kumar Wadhwa">077b5807-652c-47fc-b185-7b17939b55fb</li>
+    <li value="Dr. Raman Kumar">ac52616c-6bbd-4609-9f52-d1ea9c36da4c</li>
+    <li value="Dr. Rubina Tahir">5cf1a358-26d2-42d3-b39a-26560b835e4c</li>
+    <li value="Prof. Dr. Rufina Soomro">2169c1b6-d325-4dfc-9d1b-37429617a1bd</li>
+    <li value="Dr. S M Sajid Ali">fd6d721c-46ef-477d-8d7c-3c2b37cee84d</li>
+    <li value="Dr. S.M. Hammad Alam">30f2a7a3-0649-4a1f-adb2-b0055064e7a6</li>
+    <li value="Dr. S.M. Nadeem Naqvi">3dfc1f03-9ad2-4c94-a656-767b8af6c630</li>
+    <li value="Dr. Saad Akhter Khan">fd7464e1-ecbc-48c8-ada4-398b4e943986</li>
+    <li value="Dr. Saba Zaidi">2d7b4887-6673-4ed1-94cf-eff61b1005ad</li>
+    <li value="Dr. Sabahat Tariq">10a3b39b-25a8-424e-ba74-085b892d8cef</li>
+    <li value="Dr. Sabeen Nadeem">f6796a3b-4329-4436-b388-f35225c1a005</li>
+    <li value="Dr. Sadaf  Nasir">67edae35-b912-4bfd-885a-ff78c5bb767f</li>
+    <li value="Ms. Sadia Siddiq">ed56eca2-59f3-4e60-8403-95b9e2d9a7da</li>
+    <li value="Ms. Sadia Hamid">f7942b86-2a17-45a6-ae5b-356d6d2a6274</li>
+    <li value="Dr. Saeed Akhtar">7bd09304-5585-4036-b4e9-322c1166a609</li>
+    <li value="Dr. Sahira Abrar">3d85a480-6c4f-488b-a2a5-09d644edcd0a</li>
+    <li value="Dr. Saima Akhter">6e258daf-5e97-402b-afcc-98dd769c1d99</li>
+    <li value="Dr. Saima Mangi">b98b45bd-37a6-41df-8835-4751e74ae6af</li>
+    <li value="Dr. Sajjad Jamil">bc073eb8-3b19-4b61-9679-fe82c1454aee</li>
+    <li value="Prof. Dr. Saleha  Anwar">43488e9e-1c5b-4a06-9fc9-6e520b056bdf</li>
+    <li value="Dr. Salma Batool Naqvi">c74f4030-8f6b-455b-b2a6-30fc9b524117</li>
+    <li value="Prof. Dr. Salman Faridi">04d8dadb-78ef-43de-9cac-c93531cd8297</li>
+    <li value="Prof. Dr. Salman Yousuf Sharif">6c0f50ea-78f1-40b2-bbde-384b31e2c857</li>
+    <li value="Dr. Samar Abbas Jaffri">28799656-5365-4833-8294-1136f28954f9</li>
+    <li value="Prof. Dr. Samina Shamim">9a3e82e8-adc9-4250-916e-e4c9fca447c4</li>
+    <li value="Dr. Sana Anwar">72a42034-6959-4168-82f6-69d5a7cc5bde</li>
+    <li value="Dr. Sanam Bano">6062c35a-8244-4f84-8422-90609fa5f337</li>
+    <li value="Dr. Sarosh Rifaqat">cc573ac3-0947-4c3e-9469-d3b5978d1e1e</li>
+    <li value="Prof. Dr. Shabbir Hussain">40d3957e-4d83-48d7-9125-8a51ca81bf2a</li>
+    <li value="Dr. Shabbir Ahmed Mallick">879fc29d-ead7-45c2-a03f-9c4cc5331fc3</li>
+    <li value="Dr. Shaesta Tabassum">e06eb656-1d9c-436f-975d-99ec1f862cea</li>
+    <li value="Dr. Shahab Javid">0f4524a7-e464-42de-a783-bd7d61476578</li>
+    <li value="Dr. Shahab Ul Hasan Siddiqui ">40ea1494-4032-47fd-95c3-a9da36672aad</li>
+    <li value="Dr. Shaheen Zafar">dca2d5ae-8328-4c53-bf3c-7876d6f15ffb</li>
+    <li value="Dr. Shahid Karim">9efc0530-79ba-413f-8526-cbc9f09685fb</li>
+    <li value="Dr. Shahnaz Hussaini">61744c63-9901-47b0-8427-54d5cb7cc8e8</li>
+    <li value="Prof. Dr. Shakil Aqil">95b8970e-683e-499d-a67b-5bb95bc45c38</li>
+    <li value="Dr. Shanil Kadir">5fdec65d-7f94-4062-aeaf-736d617cc099</li>
+    <li value="Dr. Sheeraz Ur Rehman">65cd6b23-6fb3-4d1e-8606-971794e1f4c1</li>
+    <li value="Dr. Sheikh Haroon Shah">7540c39b-a8ee-432d-9f2e-0a7f61efaec8</li>
+    <li value="Dr. Sidra Rauf">0781347a-65a2-406c-bcd3-4b15bdce247d</li>
+    <li value="Dr. Sobia Rafiq">9d5a41c3-ef8b-440c-813e-5c729ebb42bf</li>
+    <li value="Ms. Sumyya Rasheed">79db39e9-9ba3-4510-b191-b4a599436299</li>
+    <li value="Dr. Syed Ahmed Asif">d21e6dcd-572c-4675-a5d9-68b808e84061</li>
+    <li value="Prof. Dr. Syed Ali Arsalan">a77acead-3c39-4909-b91c-1e10c2fe4560</li>
+    <li value="Dr. Syed Amir Ali Shah">2e9ddfac-5735-4b90-9f20-874e580932c3</li>
+    <li value="Dr. Syed Farhan Ahmed">7853efc8-6610-42f1-ad6a-28f0b89f6cdb</li>
+    <li value="Dr. Syed Hatim Ali Shah">728be3ef-d271-4f6f-9d4d-5945ac2bed35</li>
+    <li value="Prof. Dr. Syed Ishtiaq Rasool">d1746fcf-604e-4dc3-a8e4-5acf2c8a9db3</li>
+    <li value="Dr. Syed Jafar Imam">683ae1aa-995d-441d-b96f-4a9e77691924</li>
+    <li value="Dr. Syed Mahfooz Alam">dd6f3fa3-9655-4ccb-9838-6a8d932a8046</li>
+    <li value="Dr. Syed Mahmood Ul Haq">770deaf0-2b24-460e-8e42-feca8592d9b1</li>
+    <li value="Dr. Syed Muhammad Nadeem">5c1a7f74-31d4-4725-b250-f5190cb693f5</li>
+    <li value="Prof. Dr. Syed Muhammad Irfan">f76c65f8-bd84-4cac-8b69-e01b9168c9fe</li>
+    <li value="Prof. Dr. Syed Shahid Noor">7fc3b7be-6d22-457c-b564-5965f2af0d80</li>
+    <li value="Dr. Syed Tabish Rehman">7375e67c-348e-4636-acb7-76740361e117</li>
+    <li value="Dr. Syed Tahir Husain">ec8cd375-474a-44d0-9c4b-b649d221ce44</li>
+    <li value="Dr. Syed Zulfiqar Ali Naqvi">7335cd4e-63f4-491e-8c14-01b8fd448f3e</li>
+    <li value="Dr. Syeda Nazish Azeem">9262e838-2d40-473b-b661-7e915d406731</li>
+    <li value="Dr. Syeda Nosheen Zehra">c051ee95-c7fd-4ea0-8d60-531f47b41108</li>
+    <li value="Dr. Tabe Rasool">47af7f1e-8fa7-4e87-8e66-b7bb32282236</li>
+    <li value="Dr. Tahira Yasmeen">4b4bbbaf-c71f-4dbe-9dfe-7ce67fb4c23b</li>
+    <li value="Dr. Tahira Perveen Umer">0332ca9d-31f4-4560-83ad-f50ea57f38f9</li>
+    <li value="Dr. Tanveer Chaudhry ">9d4e4222-e2fc-47ef-a9ef-fc5f3964148a</li>
+    <li value="Prof. Dr. Tariq Azam Siddiqi">183c0118-159e-4603-8aa1-6b15c8f4b1bd</li>
+    <li value="Dr. Tauqir Ul Islam">fe81f0f4-4251-4a82-8c78-9adf63c0415f</li>
+    <li value="Dr. Uzma Shabab">4a578316-bee6-460f-a577-352c4ba89688</li>
+    <li value="Dr. Uzma Saad">4af10e0e-a779-47c6-ab66-3d70ec89fa1f</li>
+    <li value="Dr. Waqas Ahmed">717ef0e9-f876-4d0b-bd6e-0f05420389bf</li>
+    <li value="Dr. Waseem Jaffrani">077b5912-ec41-44b6-817e-9755cda27280</li>
+    <li value="Dr. Yasir Murtaza">593b698e-cd20-485f-b305-aabbe5a807c4</li>
+    <li value="Dr. Zafar Ahmad">d9614ad6-4595-49e3-b395-af3ca6d60153</li>
+    <li value="Dr. Zaheer Ali">7a8dfea1-2c89-46fa-805e-eb80862e18ab</li>
+    <li value="Dr. Zahid Habib">783406a8-a2ba-4325-9cef-d547423ba19b</li>
+    <li value="Dr. Zaib Un Nisa">bc450180-4492-41ad-8b6d-c42c0178576d</li>
+    <li value="Prof. Dr. Zaki Idrees">02e44f89-93bf-450a-9d3b-ce05d2482b16</li>
+    <li value="Prof. Dr. Zeeshan Kamil">6d4258dc-73ca-4d67-80ac-51ae0856c1f7</li>
+    <li value="Dr. Zubda Malik">3f69bf4e-7303-4a01-b32c-8fd3a705e83b</li>
+    <li value="Dr. Zunairah Rais">86470696-2c9b-46e9-bc5d-ca4147b37af1</li>
+</ul>
+ 
+
+
+<script type="text/javascript">
+
+    /*Initialization*/
+    var allDocs = [];
+    var allSpec = [];
+    var specialityUID = null;
+    var providerUID = null;
+
+
+
+    /***Methods***/
+
+    //Reset Click Event All Parameters
+    function ClearAll() {
+        providerUID = null;
+        specialityUID = null;
+    };
+
+    //Fill Doctors Auto Complete Suggestion List
+    function FillDoctors() {
+        var parentElem = $("#doctorOptions").children();
+        if (parentElem) {
+            var arr = [];
+            for (var i = 0; i < parentElem.length; i++) {
+                var guid = $(parentElem[i]).text();
+                var name = $(parentElem[i]).attr('value');
+                arr.push({ value: name, label: name, id: guid });
+            }
+            allDoctors = arr;
+        }
+        //Auto Complete Event
+        $("#find-a-doctor2").autocomplete({
+            source: arr,
+            select: function (event, ui) {
+                providerUID = ui.item.id;
+            }
+        }).data("ui-autocomplete")._renderItem = function (ul, item) {
+            let txt = String(item.value).replace(new RegExp(this.term, "gi"), "<span class='highlight'>$&</span>");
+            return $("<li></li>")
+                .data("ui-autocomplete-item", item)
+                .append("<a>" + txt + "</a>")
+                .appendTo(ul);
+        };
+
+    };
+
+
+
+
+
+    //Run On Form Submit
+    function SearchDoctor2() {
+       
+        debugger
+        var ProviderUID = providerUID;
+        var spe = specialityUID;
+        var doct = $("#find-a-doctor2").val();
+        var url = "/Doctors";
+        var firstItem = true;
+
+        if (ProviderUID != null) {
+            doct = null;
+        }
+
+        if (spe) {
+            if (firstItem)
+                url += "?spe=" + spe;
+            else
+                url += "&spe=" + spe;
+            firstItem = false;
+        }
+
+        if (ProviderUID) {
+            if (firstItem)
+                url += "?providerUId=" + ProviderUID;
+            else
+                url += "&providerUId=" + ProviderUID;
+            firstItem = false;
+        }
+
+        if (doct) {
+            if (firstItem)
+                url += "?doc=" + doct;
+            else
+                url += "&doc=" + doct;
+            firstItem = false;
+        }
+        window.location = url;
+    };
+
+    function SearchLocation() {
+        var loc = $("#locationDropdown").val()
+        if (loc != null) {
+            $("#LocationName").val($("#locationDropdown").val());
+        }
+    }
+    //Fill Department Auto Complete Suggestion List
+    function FillSpecialities2(data) {
+        if (data) {
+            var arr = [];
+            for (var i = 0; i < data.length; i++) {
+                var guid = data[i].uid;
+                var name = data[i].titleName;
+                arr.push({ value: name, label: name, id: guid });
+            }
+            allSpecialities = arr;
+        }
+        $("#find-a-doctor-by-dept").autocomplete({
+            source: arr,
+            select: function (event, ui) {
+                specialityUID = ui.item.id;
+            }
+        });
+    };
+
+    function FindDoc() {
+      
+        var doct = $("#find-a-doctor2").val();
+        var url = "/Doctors";
+        if (doct) {
+            url += "?doc=" + doct;
+        }
+        window.location = url;
+    };
+
+
+    
+    //Windows Load Function
+    $(window).load(function () {
+
+        //Fill Doctors List Suggestion on Auto Complete
+        FillDoctors();
+    });
+
+    //Get Server Call
+    var url2 = "/Speciality/GetAll";
+    $.get(url2, function (data) {
+        allSpec = data.data;
+        FillSpecialities2(data.data);
+    });
+
+    //Keyup Event of Select Doctor Textbox
+    $("#find-a-doctor2").on("keyup", function (e) {
+        if (e.which == '13') {
+            event.preventDefault();
+            SearchDoctor2();
+        }
+    });
+
+    //Validate Form Function
+    $("#contact_form").validate({
+        submitHandler: function (form) {
+            var form_btn = $(form).find('button[type="submit"]');
+            var form_result_div = '#form-result';
+            $(form_result_div).remove();
+            //form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;">Request Sent</div>');
+            var form_btn_old_msg = form_btn.html();
+            form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+            $(form).ajaxSubmit({
+                dataType: 'json',
+                success: function (data) {
+                    if (data == true) {
+                        $(form).find('.form-control').val('Done');
+                        $("#contact_form").find("input,select,textarea").val("");
+                        $("#contact_form").find("select").val("0");
+                        form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;">Request Sent</div>');
+                    } else {
+                        form_btn.before('<div id="form-result" class="alert alert-danger" role="alert" style="display: none;">Error</div>');
+                    }
+                    form_btn.prop('disabled', false).html(form_btn_old_msg);
+                    $(form_result_div).html(data.message).fadeIn('slow');
+                    setTimeout(function () {
+                        $(form_result_div).fadeOut('slow')
+                    }, 6000);
+                }
+            });
+        }
+    });
+
+
+</script>
+
+
+<script type="text/javascript">
+
+    //car_select
+    /**/
+    //var url = "/Provider/GetAll";
+    ///**/
+    //$.get(url, function (data) {
+    //    allDocs = data.data;
+    //    FillDoctors(data.data);
+    //});
+
+
+
+    //function FillDoctors(data) {
+    //    if (data && data.length > 0) {
+    //        $('#doc_select').empty();
+
+    //        $('#doc_select')
+    //            .append($('<option>', { value: 0 })
+    //                .text('- Select Consultant -'));
+
+    //        $.each(data, function (key, value) {
+    //            $('#doc_select')
+    //                .append($('<option>', { value: value.uid })
+    //                    .text(value.fullName));
+    //        });
+    //    }
+    //};
+
+
+</script>
+
+
+<style>
+
+    
+
+     
+    .height-10em {
+        height: 10em !important;
+    }
+
+    .main-content {
+        padding-bottom: 0px !important;
+    }
+
+    .text-theme-colored-red {
+        color: #b71c1c;
+    }
+    /**/
+    .hide-bullets {
+        list-style: none;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+
+    .thumbnail {
+        padding: 0;
+    }
+
+    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        width: 100%;
+    }
+
+    .open-text:hover {
+        font-weight: 900;
+        color: #23408e;
+    }
+
+    .ml-50 {
+        margin-left: 50% !important;
+    }
+
+    .panel-group .open-text a.active {
+        font-weight: 900 !important;
+        color: #1792c8 !important;
+        background: #e8e8e8 !important;
+    }
+
+    .panel-group1 .panel-title1 a {
+        color: #1792c8 !important;
+        background: #fff !important;
+        border-bottom: 1px solid #1792c84a;
+    }
+
+        .panel-group1 .panel-title1 a.active {
+            background: #23408e !important;
+            color: #fff !important;
+        }
+
+
+
+    .panel-group1 .intitle a.active {
+        background: #1792c8 !important;
+    }
+
+
+    .mb-05 {
+        margin-bottom: 9%;
+    }
+
+    .icon {
+        max-width: 150px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .services section {
+        text-align: center;
+    }
+   
+
+
+    /*Services 2*/
+      
+
+</style>
+
+<!-- end main-content -->
+<!--blog posts section end-->
+<!--page footer-->
+
+
+            <div class="loader"></div>
+        </div>
+        <!--page footer-->
+        <!-- Footer -->
+
+
+<footer id="footer" class="footer pb-0" data-bg-color="#25272e">
+    <div class="container pt-60 pb-60">
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="widget dark">
+                    <img alt="" src="/BlueTheme/images/brand-logo-white.png">
+                    <p class="font-12 mt-10 mb-10">
+                        Every day thousands of people enter the gates of Liaquat National Hospital (LNH) with someone close to them in need of medical attention...
+                    </p>
+                    <a class="btn btn-default btn-transparent btn-xs btn-flat mt-5" href="/Pages/About">Read more</a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="widget dark">
+                    <h5 class="text-white widget-title line-bottom-theme-colored-2">Information</h5>
+                    <ul>
+                        <li><a href="/Location/List">Locations</a></li>
+                        <li><a href="/Schedule/OpdSchedule">OPD Schedule</a></li>
+                        <li><a href="/lnh/patients-guide">Patient's Guide</a></li>
+                        <li><a href="/Pages/faqs">FAQs</a></li>
+                        <li><a href="/services/facilities">Facilities</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="widget dark">
+                    <h5 class="text-white widget-title line-bottom-theme-colored-2">Quick Links</h5>
+                    <ul>
+                        <li><a href="https://lnh.edu.pk/Bariatric-and-Metabolic-Surgery#BMI" target="_blank">BMI Calculator</a></li>
+                        <li><a href="/Discounts-offers">Discounts and Offers</a></li>
+                        <li><a href="/Departments">Departments</a></li>
+                        <li><a href="/Doctors"> Doctors</a></li>
+                        <li><a href="/Careers">Careers</a></li>
+                        <li><a href="/newsandevents">News and Events</a></li>
+                        <li><a href="/gallery">Photo Gallery</a></li>
+                        <li><a href="/lnh/mediacoverage">Media Coverage</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="col-sm-6 col-md-3">
+                <div class="widget dark">
+                    <h5 class="text-white widget-title line-bottom-theme-colored-2">Contact Us</h5>
+                    <form id="footer_quick_contact_form" name="footer_quick_contact_form" class="quick-contact-form" action="/Notification/ContactUsMessage" method="post">
+                        <div class="form-group">
+                            <input name="form_email" class="form-control" type="text" required="" placeholder="Enter Email">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="form_message" class="form-control noSpecialCharacters" required="" placeholder="Enter Message" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <div id="FooterFormRecaptcha" class="g-recaptcha" name="form_grecaptcha" data-theme="dark" data-sitekey="6LenorkUAAAAAGsfE56GIaGoV_Q20I8QTLT1R--C"></div>
+                        </div>
+                        <div class="form-group">
+                            <input id="form_request" name="form_request" type="hidden" value="footer" />
+                            <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                            <button type="submit" class="btn btn-default btn-transparent btn-xs btn-flat mt-0" data-loading-text="Please wait...">Send Message</button>
+                        </div>
+                    </form>
+
+                    <!-- Quick Contact Form Validation-->
+                    <script type="text/javascript">
+                        $("#footer_quick_contact_form").validate({
+                            submitHandler: function (form) {
+                                //debugger
+                                var form_btn = $(form).find('button[type="submit"]');
+                                var form_result_div = '.form-result';
+
+                                //Start - Google ReCaptcha Validation
+                                var response = grecaptcha.getResponse(FooterFormRecaptcha);
+                                var responseLenght = response.length;
+
+                                $(form_result_div).remove();
+
+                                if (responseLenght == 0) {
+                                    form_btn.before('<div class="form-result alert alert-danger" role="alert" style="display: none;">Google ReCaptcha Failed</div>');
+                                    $(form_result_div).slideDown('slow');
+                                    setTimeout(function () {
+                                        $(form_result_div).slideUp('slow')
+                                    }, 3000);
+
+                                    //End - Google ReCaptcha Validation
+                                } else {
+
+                                    var form_btn_old_msg = form_btn.html();
+                                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                    $(form).ajaxSubmit({
+                                        dataType: 'json',
+                                        success: function (data) {
+                                            //debugger
+                                            if (data == true) {
+                                                $(form).find('.form-control').val('');
+                                                $("#footer_quick_contact_form").find("input,select,textarea").val("");
+                                                $("#form_request").val("footer");
+                                                form_btn.before('<div class="form-result alert alert-success" role="alert" style="display: none;">Request Sent</div>');
+                                            } else {
+                                                form_btn.before('<div class="form-result alert alert-danger" role="alert" style="display: none;">' + data + '</div>');
+                                            }
+                                            grecaptcha.reset(FooterFormRecaptcha);
+                                            form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                            $(form_result_div).slideDown('slow');
+                                            setTimeout(function () {
+                                                $(form_result_div).slideUp('slow')
+                                            }, 5000);
+                                        }
+                                    });
+                                }
+                            }
+                        });
+
+                    </script>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="horizontal-contact-widget mt-30 pt-30 text-center">
+                    <div class="col-sm-12 col-sm-4">
+                        <div class="each-widget">
+                            <i class="pe-7s-phone font-36 mb-10"></i>
+                            <h5 class="text-white">Call Us</h5>
+                            <p>Phone: <a href="tel:+9221111456456">(021) 111-456-456</a></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-sm-4 mt-sm-50">
+                        <div class="each-widget">
+                            <i class="pe-7s-map font-36 mb-10"></i>
+                            <h5 class="text-white">Address</h5>
+                            <p>Stadium Road, Karachi 74800, Pakistan</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-sm-4 mt-sm-50">
+                        <div class="each-widget">
+                            <i class="pe-7s-mail font-36 mb-10"></i>
+                            <h5 class="text-white">Email</h5>
+                            <p>
+                                <a href="mailto:info@lnh.edu.pk">info@lnh.edu.pk</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline styled-icons icon-gray icon-circled text-center mt-30 mb-10">
+                    <li class="icon-hover-theme-colored"><a href="https://www.facebook.com/LNHandMC" target="_blank"><i class="fa fa-facebook"></i></a> </li>
+                    <li class="twitterIcon"><a href="https://twitter.com/lnhandmc" target="_blank"><i class="fa fa-twitter"></i></a> </li>
+                    <li class="youtubeIcon"><a href="https://www.youtube.com/c/LiaquatNationalHospitalMedicalCollege" target="_blank"><i class="fa fa-youtube"></i></a> </li>
+                    <li class="linkedInIcon"><a href="https://www.linkedin.com/company/lnhandmc" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    <li class="instagramIcon"><a href="https://www.instagram.com/lnhandmc/" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-theme-colored p-20">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <p class="text-white font-11 m-0">Copyright &copy; 2022 Liaquat National Hospital. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+    </div>
+
+
+
+    <!-- JS | Custom script for all pages -->
+    <script src="/BlueTheme/js/custom.js"></script>
+
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS
+    (Load Extensions only on Local File Systems !
+     The following part can be removed on Server for On Demand Loading) -->
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="/BlueTheme/js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
+
+
+
+
+
+
+
+    
+
+
+    
+
+</body>
+</html>
